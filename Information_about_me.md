@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @R05Playz
+- 👀 I’m interested in Developing
+- 🌱 I’m currently learning Computer languages
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me jamilkhoury828@gmail.com
